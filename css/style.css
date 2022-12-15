@@ -1,0 +1,22 @@
+.style
+{
+	background-color:white;
+	height:90px;
+	width:40%;
+	border:3px solid black;
+}
+.box
+{
+background-color:seagreen;	
+	height:40px;
+	width:80px;
+	border:2px solid pink;
+	
+}
+.n
+{
+	background-color:pink;
+	margin-top:30px;
+	height:20px;
+	width:40%;
+}
